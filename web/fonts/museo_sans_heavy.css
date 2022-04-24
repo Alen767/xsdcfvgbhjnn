@@ -1,0 +1,7 @@
+@font-face {
+font-family: 'Museo Sans';
+src: url('../user/fonts/museo_sans/museo_sans_heavy.woff') format('woff'), url('../user/fonts/museo_sans/museo_sans_heavy.ttf') format('ttf');
+font-weight: 900;
+font-style: normal;
+font-display: swap;
+}
